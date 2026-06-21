@@ -1,5 +1,5 @@
 #UPDATE
-IK have updated this to conpletely rebuild how this CYOA works.  I've included lots of things such as player classes, multiple enemy classes, and I've added an inventory system.  Each player class has their own starting equipment that adds bonuses to their starting attributes.
+I have updated this to conpletely rebuild how this CYOA works.  I've included lots of things such as player classes, multiple enemy classes, and I've added an inventory system.  Each player class has their own starting equipment that adds bonuses to their starting attributes.
 
 Future plans:\
 Flesh out scenes, I have moved them to their own js file and there isn't really a flow right now\
