@@ -1,3 +1,13 @@
+#Another update!
+I realised that I had uploaded a broken starting button (not helpful!) so that was the first thing I fixed.  I have then mostly been putting together a bit of a silly, basic story.  There are two routes, one uses brawn and one uses brains - NOTE THAT THE STORY IS NOT COMPLETE.
+I have enabled the player to search for items after the fight scene, it will use the player.class to work out which items to give (i.e dont give a broadsword to a mage!)
+
+Future plans:\
+Further work on the scenes.\
+Add some random dice rolls to stats, attack, defence etc to make the combat less boring\
+On the future scenes, add in attribute checks.
+
+
 #UPDATE
 I have updated this to conpletely rebuild how this CYOA works.  I've included lots of things such as player classes, multiple enemy classes, and I've added an inventory system.  Each player class has their own starting equipment that adds bonuses to their starting attributes.
 
