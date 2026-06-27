@@ -25,3 +25,30 @@ img {
     min-width: 250px;
     font-family: monospace;
 }
+
+.hud-bar {
+    background-color: #1a1a1a;
+    border: 2px solid #333;
+    border-radius: 6px;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    font-family: monospace;
+    font-size: 14px;
+    color: #e0e0e0;
+}
+
+.hud-stat-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.hud-item {
+    display: inline-flex;
+    align-items: center;
+}
+
+.user-class { color: #ffd700; } /* Gold color for character identification */
+.hp-bar { color: #ff4d4d; font-weight: bold; }

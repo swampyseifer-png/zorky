@@ -11,7 +11,7 @@ export const playercharacters = {
         physicalattack: 15,
         magicalattack: 0,
         rangedattack: 0,
-        defence: 5,
+        defence: 3,
         startingitems: {
             weapons: `rustysword`,
             armour: `tatteredleathers`,
@@ -28,7 +28,7 @@ export const playercharacters = {
         class: `Mage`,
         startinghealth: 50,
         physicalattack: 2,
-        magicalattack: 15,
+        magicalattack: 18,
         rangedattack: 1,
         defence: 1,
         startingitems: {
@@ -49,8 +49,8 @@ export const playercharacters = {
         startinghealth: 75,
         physicalattack: 5,
         magicalattack: 0,
-        rangedattack: 13,
-        defence: 1,
+        rangedattack: 17,
+        defence: 2,
         startingitems: {
             weapons: `simpleshiv`,
             armour: `tatteredleathers`,
